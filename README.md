@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="README_banner_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="README_banner_light.png">
+  <img alt="Bloodwork" src="README_banner_light.png">
+</picture>
+
 # Bloodwork
 
 A desktop app for tracking blood test results over time. Upload pathology reports (PDF or image) and let AI extract the values, or enter results manually. Track trends, set custom thresholds, and add milestones.
