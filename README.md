@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="README_banner_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="README_banner_light.png">
-  <img alt="Bloodwork" src="README_banner_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="README_banner_light.png">
+  <source media="(prefers-color-scheme: light)" srcset="README_banner_dark.png">
+  <img alt="Bloodwork" src="README_banner_dark.png">
 </picture>
 
 # Bloodwork
